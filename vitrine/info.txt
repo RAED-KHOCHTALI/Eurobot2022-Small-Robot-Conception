@@ -1,0 +1,77 @@
+• 2 points si l’équipe dépose une vitrine pendant le temps de préparation;
+• 5 points supplémentaires si la vitrine est activée;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+• 2 points pour la dépose de la statuette sur le piédestal pendant le temps de préparation;
+• 5 points si la statuette n’est plus présente en fin de match sur le piédestal;
+• 10 points si la réplique est présente en fin de match sur le piédestal;
+• 15 points si la statuette est présente en fin de match dans la vitrine;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Actions :
+• L’équipe doit déposer sa vitrine sur la zone dédiée pendant le temps de préparation.
+• La vitrine sera activée durant le match par la pose de la statuette. Elle doit permettre de mettre en valeur
+la statuette avec au moins un élément lumineux.
+Contraintes :
+• L’activation de la vitrine doit se faire au moment de la dépose de la statuette. L’activation peut être
+effectuée par tout moyen, y compris sans fil.
+• La vitrine doit avoir au moins un élément lumineux qui s’active à l’arrivée de la statuette, cet élément
+sera visible du public mais ne doit éblouir personne. Cet élément lumineux peut être contenu dans la
+statuette, auquel cas l’alimentation électrique devra dépendre de celle de la vitrine.
+• La vitrine est considérée comme activée si elle a notablement changé de forme ou d’aspect par rapport
+au début du match.
+• A aucun moment la projection verticale de la vitrine ne doit dépasser les limites de la salle d’exposition.
+• En conséquence, la vitrine aura les contraintes dimensionnelles suivantes (statuette comprise) :
+*********************************************
+– Profondeur maximum : 222 mm.
+– Largeur maximum : 450 mm.
+– Hauteur maximum : 430 mm.
+*********************************************
+• La masse de la vitrine ne doit pas excéder 3 kg.
+• Le plan horizontal de la salle d’exposition a une rainure de 10 mm de large allant du centre du support
+au milieu du côté arrière. Cette rainure doit être utilisée pour sécuriser la vitrine sur la salle d’exposition
+grâce à l’utilisation d’une tige filetée de diamètre 8 mm et d’un écrou papillon.
+• Hormis la vis et l’écrou de fixation, aucun système ou élément de la vitrine ne doit dépasser sous le hall
+d’exposition. La taille de la vis n’est pas prise en compte dans la mesure de la hauteur de la vitrine.
+• La vitrine doit rester allumée même après la fin du match.
+• La vitrine pourra contenir une source d’alimentation électrique. Le cas échéant, un bouton d’arrêt d’urgence
+(conforme aux mêmes spécifications que celles des boutons d’arrêt d’urgence des robots) coupant
+directement l’alimentation doit équiper la vitrine. Celui-ci doit être bien visible, facilement accessible et
+devra rester à une hauteur constante. La vitrine pourra être alimentée avant le début du match sans
+toutefois être activée.
+• L’action ne doit pas être dangereuse pour le public, les personnes autour de la table, l’aire de jeu ou les
+robots.
+• La vitrine ne peut pas être activée par un élément externe à la table de jeu (membre de l’équipe, télécommande
+depuis le public, etc.).
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Actions :
+• L’équipe doit déposer sa statuette sur son piédestal pendant le temps de préparation.
+• Pendant le temps de préparation l’équipe doit précharger la réplique dans un des emplacements suivants :
+– dans un de leurs robots ;
+– dans la vitrine ;
+• Durant le match, les robots doivent récupérer la statuette sur le piédestal.
+• Une fois la statuette récupérée, les robots doivent la déposer dans la vitrine.
+• Les robots doivent positionner la réplique sur le piédestal en remplacement de la statuette.
+
+Contraintes :
+• La réplique et la statuette ne peuvent pas être empilées.
+• La réplique est considérée comme valide sur le piédestal seulement si elle est présente sur celui-ci en
+fin de match.
+• La réplique est un cube de 60 mm de côté en bois avec une masse maximale de 200 g.
+• La statuette est considérée comme valide dans la vitrine quand son volume est entièrement compris
+dans les dimensions limite de la vitrine.
+• La statuette ne peut pas se rendre d’elle même dans la vitrine ni se déplacer sur le plan de l’aire de jeu.
+• La statuette conçue par l’équipe aura les contraintes dimensionnelles suivantes :
+– Elle doit rentrer dans un cube de 120 mm de côté.
+– Elle doit être plus grande qu’un cube de 60 mm de côté.
+• La statuette ne doit pas excéder 600 g.
+• La statuette peut intégrer une source d’alimentation électrique. Dans ce cas, elle doit intégrer un bouton
+d’arrêt d’urgence accessible à tout moment du match.
+– Il est toléré un simple interrupteur à bascule en guise d’arrêt d’urgence.
+– L’interrupteur doit être visible et accessible par les arbitres en permanence.
+• Une statuette encore sous le contrôle d’un robot à la fin du match ne sera pas comptée.
+• Une replique encore sous le contrôle d’un robot à la fin du match ne sera pas comptée.
